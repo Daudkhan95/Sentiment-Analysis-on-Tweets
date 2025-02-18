@@ -2,6 +2,11 @@ Sentiment Analysis on Tweets
 
 Overview
 
+
+The dataset can be downloaded from the below link.
+http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip
+
+
 This project performs sentiment analysis on a dataset of tweets. The dataset contains labeled sentiments (0: Negative, 4: Positive), and the goal is to clean, analyze, and visualize the sentiment distribution.
 
 Features
